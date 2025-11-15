@@ -408,7 +408,7 @@ img {
 .page-header {
   z-index: 1;
   display: flex;
-  margin: 0 70px;
+  padding: 0 70px;
 }
 
 .header-logo-link {
